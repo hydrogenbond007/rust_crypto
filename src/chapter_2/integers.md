@@ -4,6 +4,7 @@ One problem we have with the natural numbers is that we cannot subtract any two 
 1. We have an identity element, \\( 0 \\). For any \\( a \\) in \\( \mathbb{Z} \\), \\( a+0=a \\)  .
 2. If \\( a \\) is in \\( \mathbb{Z} \\), so is \\( b \\) such that \\( a+b=0 \\); we commonly refer to \\( b \\) as \\( -a \\).
 3. For any \\( a \\), \\( b \\) in \\( \mathbb{Z} \\), then \\( a+b \\) is also in \\( \mathbb{Z} \\). This means that the operation is closed.
+4. f(x)
 
 The set of integers \\( \mathbb{Z} \\) with the addition operation forms an important algebraic structure, which is called a group. Many different mathematical objects share the same structure, even if the operations and elements are totally different, and we have general results and tools to deal with them.
 
